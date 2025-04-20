@@ -1,0 +1,19 @@
+# Set default behavior for text files
+* text=auto
+
+# Explicitly declare text files to be normalized
+*.css text
+*.html text
+*.js text
+*.json text
+*.md text
+*.ts text
+
+# Declare binary files to be excluded from text normalization
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.exe binary
+*.dll binary
